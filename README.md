@@ -2,6 +2,10 @@
 
 **（网新前沿：AR/VR第一周作业）**
 
+文件在以下百度网盘链接
+链接：https://pan.baidu.com/s/1mIKcByJgDc6_yxoVIgP9yA 
+提取码：z29c 
+
 ### 1. 安装Unity
 
 ![软件1.png](https://upload-images.jianshu.io/upload_images/9400767-41c02e13a00d9e43.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -125,7 +129,6 @@
 回到Preferences按Browse增添JDK的路径
 
 ![Unity20.png](https://upload-images.jianshu.io/upload_images/9400767-1527cd8f78f4ea82.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
 
 ![JDK11.png](https://upload-images.jianshu.io/upload_images/9400767-2fc0d3f9df01444f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
