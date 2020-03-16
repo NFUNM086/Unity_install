@@ -2,7 +2,7 @@
 
 **（网新前沿：AR/VR第一周作业）**
 
-#### 1. 安装Unity
+### 1. 安装Unity
 
 ![软件1.png](https://upload-images.jianshu.io/upload_images/9400767-41c02e13a00d9e43.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -28,7 +28,7 @@
 
 ![Unity6.png](https://upload-images.jianshu.io/upload_images/9400767-12631e3f1be2eeda.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-#### 2. 登录Unity账号
+### 2. 登录Unity账号
 
 如果没有账号先注册
 
@@ -54,7 +54,7 @@
 
 ![没有安卓插件.png](https://upload-images.jianshu.io/upload_images/9400767-8f7f9a03687d765f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-#### 3. 安装安卓插件
+### 3. 安装安卓插件
 
 ![软件2.png](https://upload-images.jianshu.io/upload_images/9400767-08975bb8173baa1c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -85,7 +85,7 @@
 可以看回发布页面的安卓选项
 ![Unity19.png](https://upload-images.jianshu.io/upload_images/9400767-4ff3f558b7715061.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-#### 4. 安装安卓的JDK
+### 4. 安装安卓的JDK
 
 *JDK（Java Development Kit）：针对java开发的SDK*
 
@@ -133,9 +133,7 @@
 
 ![JDK10.png](https://upload-images.jianshu.io/upload_images/9400767-a6561f54d9351bd9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-
-
-#### 5. 安装安卓的SDK
+### 5. 安装安卓的SDK
 *SDK（Software Development Kit）：软件开发工具包*
 
 解压（记住路径位置）
@@ -172,7 +170,31 @@
 
 ![SDK10.png](https://upload-images.jianshu.io/upload_images/9400767-03b6e360b3d08e4f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-#### 6. 安装安卓模拟器（夜神模拟器）
+- #### 项目导出
+
+选择Assets-Import Package-Custom Package
+
+![导出项目1.png](https://upload-images.jianshu.io/upload_images/9400767-a776bcd6e74b1f25.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+全选所有Items，按Export
+
+![导出项目2.png](https://upload-images.jianshu.io/upload_images/9400767-9501a2fc3f9f061d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+- #### 项目导入
+
+选择Assets-Import Package-Custom Package
+
+![导入项目1.png](https://upload-images.jianshu.io/upload_images/9400767-ee020d27a41cd4c4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+注意文件的格式类型是package file
+
+![导入项目2.png](https://upload-images.jianshu.io/upload_images/9400767-66573561333f0359.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+全选所有Items，然后按Import
+
+![导入项目3.png](https://upload-images.jianshu.io/upload_images/9400767-babf2a1cb8da8560.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+### 6. 安装安卓模拟器（夜神模拟器）
 [夜神模拟器官网下载](https://www.yeshen.com/)
 
 ![夜神模拟器1.png](https://upload-images.jianshu.io/upload_images/9400767-f182203e8b612680.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
