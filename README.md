@@ -89,7 +89,23 @@
 可以看回发布页面的安卓选项
 ![Unity19.png](https://upload-images.jianshu.io/upload_images/9400767-4ff3f558b7715061.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-### 4. 安装安卓的JDK
+### 4. 安装Unity资源包
+
+双击安装
+
+![软件5.png](https://upload-images.jianshu.io/upload_images/9400767-a814c9e7ba138cbc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![资源包1.png](https://upload-images.jianshu.io/upload_images/9400767-78a2b3cec40a71ce.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![资源包2.png](https://upload-images.jianshu.io/upload_images/9400767-9ede5cac337d67c4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![资源包3.png](https://upload-images.jianshu.io/upload_images/9400767-d7ee8905c8ff92ee.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![资源包5.png](https://upload-images.jianshu.io/upload_images/9400767-4cee0434d2e0f0a3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![资源包6.png](https://upload-images.jianshu.io/upload_images/9400767-88ad702e2712417f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+### 5. 安装安卓的JDK
 
 *JDK（Java Development Kit）：针对java开发的SDK*
 
@@ -136,7 +152,7 @@
 
 ![JDK10.png](https://upload-images.jianshu.io/upload_images/9400767-a6561f54d9351bd9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-### 5. 安装安卓的SDK
+### 6. 安装安卓的SDK
 *SDK（Software Development Kit）：软件开发工具包*
 
 解压（记住路径位置）
@@ -197,7 +213,7 @@
 
 ![导入项目3.png](https://upload-images.jianshu.io/upload_images/9400767-babf2a1cb8da8560.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-### 6. 安装安卓模拟器（夜神模拟器）
+### 7. 安装安卓模拟器（夜神模拟器）
 [夜神模拟器官网下载](https://www.yeshen.com/)
 
 ![夜神模拟器1.png](https://upload-images.jianshu.io/upload_images/9400767-f182203e8b612680.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
