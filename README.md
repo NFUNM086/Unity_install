@@ -213,7 +213,27 @@
 
 ![导入项目3.png](https://upload-images.jianshu.io/upload_images/9400767-babf2a1cb8da8560.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-### 7. 安装安卓模拟器（夜神模拟器）
+#### 7. 生成文件（以apk为例）
+
+打开File-Build Settings
+
+![Unity18.5.png](https://upload-images.jianshu.io/upload_images/9400767-bf5b876fdae05389.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+按Add Open Scenes选择场景“sj”后，再按左下角的Swith Platform适配平台（变为灰色不能点击），再按Build，选择**路径（必须是英文，不能是中文）**后，出现以下错误提示
+
+![生成1.png](https://upload-images.jianshu.io/upload_images/9400767-59600f6025db9d99.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+上网查找错误原因及解决方法：
+[Unity打包成安卓安装包时出现：Bundle Identifier has not been set up correctly错误](https://blog.csdn.net/weixin_43913272/article/details/89479707)
+
+根据教程按Player Settings调设置，命名要规范——Package Name=com.Company Name.Product Name
+（我的Package Name打错了，红字为正确）
+
+![生成2.png](https://upload-images.jianshu.io/upload_images/9400767-026793f753fff2df.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+再重复build的步骤，成功生成apk文件
+
+#### 8. 安装安卓模拟器（夜神模拟器）
 [夜神模拟器官网下载](https://www.yeshen.com/)
 
 ![夜神模拟器1.png](https://upload-images.jianshu.io/upload_images/9400767-f182203e8b612680.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
