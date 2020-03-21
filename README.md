@@ -1,10 +1,16 @@
 ## 最详细安装Unity&SDK&JDK教程
 
-**（网新前沿：AR/VR第一周作业）**
+*（网新前沿：AR/VR第一周作业）*
 
-文件在以下百度网盘链接
+**相关软件在以下百度网盘链接**
+
 链接：https://pan.baidu.com/s/1mIKcByJgDc6_yxoVIgP9yA 
 提取码：z29c 
+
+**由于视频大小超过25m无法直接上传至仓库，故附上百度网盘链接**
+
+以下步骤成功完成后生成apk操作的视频链接：https://pan.baidu.com/s/1OjqCfj2HXKDu_6KkLqL9Rw 
+提取码：s89w 
 
 ### 1. 安装Unity
 
